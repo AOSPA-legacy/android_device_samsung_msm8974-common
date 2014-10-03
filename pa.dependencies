@@ -1,0 +1,20 @@
+[
+ {
+    "remote":       "cm",    
+    "repository":   "CyanogenMod/android_device_qcom_common",
+    "target_path":  "device/qcom/common",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "AOSPA-legacy/android_device_samsung_qcom-common",
+    "target_path":  "device/samsung/qcom-common",
+    "revision":     "kitkat"
+  },
+  {
+    "remote":      "github",
+    "repository":  "TheMuppets/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision":    "cm-11.0"
+  }  
+]
